@@ -72,3 +72,4 @@ if [ -e /dev/$disk -a -b /dev/$disk ]
         else
         echo "the disk is invalid.. existing"
 fi 
+# i added extra line in this prg57.sh
